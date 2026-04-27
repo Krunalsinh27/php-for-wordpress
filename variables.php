@@ -34,6 +34,11 @@ echo "</br>";
 $_name = "Raj";
 $surname = "patel";
 
+// 4. declare multiple variable
+$a = $b = 6;
+echo $a;
+echo "</br>";
+
 echo $_name;
 echo "</br>";
 echo $surname;
