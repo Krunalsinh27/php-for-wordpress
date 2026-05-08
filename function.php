@@ -1,6 +1,6 @@
 <?php
 
-simple Function
+//simple Function
 function userDetails(){
     echo "User name is KRUNALSINH";
     echo "<br/>";
@@ -16,7 +16,7 @@ userDetails();
 
 <?php
 
-Nested function
+//Nested function
 
 function dummy(){
     echo "<h1>User Details</h1>";
@@ -40,7 +40,7 @@ userDetails();
 
 <?php
 
-Function with parameters
+//Function with parameters
 
 function addition($a, $b){
     echo $a + $b;
